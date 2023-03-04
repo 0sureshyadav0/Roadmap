@@ -39,7 +39,7 @@ Skills you need to have to back-end developer.
 - VoltDB - It follows a relational pattern, they use memory to store data.
 
 
-5. Version Control
+5. Version Control:
 A list of Version Control Systems are:
 - GitHub
 - GitLab
@@ -48,5 +48,5 @@ A list of Version Control Systems are:
 - Mercurial
 
 
-6. Build Projects
+6. Build Projects:
 When you're all done with the theory part, do build some projects to be well-versed with full-stack development. You implement all the front-ent, and back-end sides of a project along with database handling, then you get perfect in web development. As you build something, you get familiar with the technical concepts like how APIs connect the front-end to the back-end, how the datacase manages data, and various other steps followed during web development. Thus ccultivate a habit of building projects to become a successful web developer.
