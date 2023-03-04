@@ -17,8 +17,9 @@ i. MERN - The most popular and trending technology
 - React - A JavaScript library for building User Interfaces, building single-page applications.
 - NodeJS - An open-source server environment
 
+```
 ii. MEAN - The major difference between MERN and MEAN is MERN (written in JavaScript) works on React whereas MEAN deals with Angular ( a framework written in TypeScript ).
-
+```
 2. FrontEnd Development
 Front-End is the UI (User Interface), it deals with the website's overall appearance, on how interactive and dynamic it is. For masteringit, get clear with all the elements of
 - HTML
