@@ -8,8 +8,10 @@ Steps:
 - Version Control System
 - Build Projects
 
-1. Choose a technology
-i. MERN - The most popular and trending technology
+1. Choose a technology:
+```
+i. MERN - The most popular and trending technology 
+```
 - MongoDB - A NoSQL database that deals with data.
 - Express - A framework for NodeJS and handles GET, PUT, POST, DELETE functions
 - React - A JavaScript library for building User Interfaces, building single-page applications.
